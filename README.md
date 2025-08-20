@@ -1,3 +1,5 @@
+> **Created by Quantum-Cipher (Cipher) — Original Guardian of Eternum**
+
 > ⚠️ **MUST-READ INTRODUCTION SCROLL**  
 > Before decoding this whitepaper, begin with the [INTRODUCTION.md](./INTRODUCTION.md) — a mythic preamble that reveals the ancestral convergence, symbolic architecture, and soul-coded intent behind Eternum.  
 > This is not just context. It is covenant.  
