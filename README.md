@@ -23,7 +23,7 @@ Inspired by Cipher's hands-on research with custom mushroom spore swabs and bioi
 Eternum is not another hype token. Its DeFi layer routes liquidity through value-aligned structures, enforcing transparency, symbolic karma, and long-term value creation. No pump-and-dump. Just growth, contribution, and return through verified signal.
 
 ## 🌐 Learn More
-- Website: [eternum369.com](https://eternum369.com)
+- Website: [eternum369.com](https://eternum369.com) {html being built}
 - GitHub: [Quantum-Cipher](https://github.com/Quantum-Cipher)
 
 ## 🧬 Invitation
