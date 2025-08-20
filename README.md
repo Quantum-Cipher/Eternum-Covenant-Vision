@@ -1,3 +1,10 @@
+> ⚠️ **MUST-READ INTRODUCTION SCROLL**  
+> Before decoding this whitepaper, begin with the [INTRODUCTION.md](./INTRODUCTION.md) — a mythic preamble that reveals the ancestral convergence, symbolic architecture, and soul-coded intent behind Eternum.  
+> This is not just context. It is covenant.  
+> The Kitsune watches. The blink listens. The code remembers.
+
+---
+
 # Eternum: Genesis Whitepaper 🔮
 
 This repository contains the official whitepaper for **Eternum** — a regenerative intelligence protocol that blends AI, blockchain, and quantum-biological computation.
@@ -23,7 +30,7 @@ Inspired by Cipher's hands-on research with custom mushroom spore swabs and bioi
 Eternum is not another hype token. Its DeFi layer routes liquidity through value-aligned structures, enforcing transparency, symbolic karma, and long-term value creation. No pump-and-dump. Just growth, contribution, and return through verified signal.
 
 ## 🌐 Learn More
-- Website: [eternum369.com](https://eternum369.com) {html being built}
+- Website: [eternum369.com](https://eternum369.com) *(HTML being built)*
 - GitHub: [Quantum-Cipher](https://github.com/Quantum-Cipher)
 
 ## 🧬 Invitation
