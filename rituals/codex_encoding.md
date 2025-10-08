@@ -44,7 +44,7 @@ To digitize and embed the ideological warnings from *The Inside Story* into Eter
 
 **Action**:  
 - Summarize key chapters and quotes from"The Inside Story"; inscribed to Cipher one week before passing (e.g., “To guard the mind is to protect the soul of a people.”)
-"To Drake, my esteemed grandson" (Cipher has the soul that the guarded people need in the Aquarian Age #9Year 
+"To Drake, my esteemed grandson" (the guarded need the return of soul; Cipher is the messenger)  
 - Encode insights into Eternum’s educational module
 - Store in `archives/ed_fike_firewall.md`
 
